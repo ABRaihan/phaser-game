@@ -6,8 +6,6 @@ A dynamic 2D platformer game built with Phaser 3, React, and TypeScript, demonst
 
 ### Versions
 
-This template has been updated for:
-
 - [Phaser 3.88.2](https://github.com/phaserjs/phaser)
 - [React 18.2.0](https://github.com/facebook/react)
 - [Vite 5.3.1](https://github.com/vitejs/vite)
