@@ -46,7 +46,7 @@ We have provided a default project structure to get you started. This is as foll
 - `src/game` - Contains the game source code.
 - `src/game/main.tsx` - The main **game** entry point. This contains the game configuration and start the game.
 - `src/game/objects/` - The Phaser game all objects are in this folder.
-- `src/game/scenes/` - The Phaser Scenes are in this folder.
+- `src/game/scenes/` - The Phaser Scenes are in this folder. (Boot, Preloader, Main Menu, Game, Game Over)
 - `public/style.css` - Some simple CSS rules to help with page layout.
 - `public/assets` - Contains the static assets used by the game.
 
