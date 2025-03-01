@@ -2,7 +2,7 @@
 
 A dynamic 2D platformer game built with Phaser 3, React, and TypeScript, demonstrating seamless React-Phaser communication powered by Vite.
 
-**[Github repository](https://github.com/phaserjs/template-react)**
+**[Github repository](https://github.com/ABRaihan/phaser-game)**
 
 ### Versions
 
