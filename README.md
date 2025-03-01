@@ -19,15 +19,15 @@ A dynamic 2D platformer game built with Phaser 3, React, and TypeScript, demonst
 
 | Command                | Description                                                                                              |
 | ---------------------- | -------------------------------------------------------------------------------------------------------- |
-| `pnpm install`         | Install project dependencies                                                                             |
-| `pnpm run dev`         | Launch a development web server                                                                          |
-| `pnpm run build`       | Create a production build in the `dist` folder                                                           |
-| `pnpm run dev-nolog`   | Launch a development web server without sending anonymous data (see "About log.js" below)                |
-| `pnpm run build-nolog` | Create a production build in the `dist` folder without sending anonymous data (see "About log.js" below) |
+| `pnpm i`         | Install project dependencies                                                                             |
+| `pnpm dev`         | Launch a development web server                                                                          |
+| `pnpm build`       | Create a production build in the `dist` folder                                                           |
+| `pnpm dev-nolog`   | Launch a development web server without sending anonymous data (see "About log.js" below)                |
+| `pnpm build-nolog` | Create a production build in the `dist` folder without sending anonymous data (see "About log.js" below) |
 
 ## Writing Code
 
-After cloning the repo, run `pnpm install` from your project directory. Then, you can start the local development server by running `pnpm run dev`.
+After cloning the repo, run `pnpm i` from your project directory. Then, you can start the local development server by running `pnpm dev`.
 
 The local development server runs on `http://localhost:8080` by default. Please see the Vite documentation if you wish to change this, or add SSL support.
 
