@@ -9,5 +9,5 @@ export const buttonConfig = {
     height: "48px",
     borderRadius: "8px",
     fontSize: "24px",
-  }
-}
+  },
+};
