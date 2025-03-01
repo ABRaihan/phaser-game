@@ -17,9 +17,9 @@ A dynamic 2D platformer game built with Phaser 3, React, and TypeScript, demonst
 
 ## Available Commands
 
-| Command                | Description                                                                                              |
-| ---------------------- | -------------------------------------------------------------------------------------------------------- |
-| `pnpm i`         | Install project dependencies                                                                             |
+| Command            | Description                                                                                              |
+| ------------------ | -------------------------------------------------------------------------------------------------------- |
+| `pnpm i`           | Install project dependencies                                                                             |
 | `pnpm dev`         | Launch a development web server                                                                          |
 | `pnpm build`       | Create a production build in the `dist` folder                                                           |
 | `pnpm dev-nolog`   | Launch a development web server without sending anonymous data (see "About log.js" below)                |
@@ -50,12 +50,21 @@ We have provided a default project structure to get you started. This is as foll
 - `public/style.css` - Some simple CSS rules to help with page layout.
 - `public/assets` - Contains the static assets used by the game.
 
-## Features
+## Storyline and How to Play
 
-🚀 **Core Gameplay**
+In this exciting platformer, you control a character whose goal is to collect as many stars as possible while avoiding dangerous bombs. Each star collected grants 10 points. Initially, 12 stars are placed throughout the level. Once all stars are collected, 12 new stars and a bomb appear, increasing the challenge.
 
-- Responsive character movement (Arrows)
-- Collectible star system with score tracking
-- Bomb obstacle mechanics with collision detection
-- Multiple game scenes (Boot, Preloader, Main Menu, Game, Game Over)
+**Controls:**
+
+- Move Left: ← (Left Arrow Key)
+- Move Right: → (Right Arrow Key)
+- Jump: ↑ (Up Arrow Key)
+
+**Gameplay:**
+
+- Collect stars to gain points. Each star is worth 10 points.
+- After collecting all 12 stars, new stars and a bomb appear.
+- Avoid the bomb! If your character touches it, the game is over.
+
+Challenge yourself to collect as many stars as possible without hitting a bomb!
 
