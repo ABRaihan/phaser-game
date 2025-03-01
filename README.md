@@ -1,4 +1,4 @@
-# Flarie Game Demo
+# Phaser Game Demo
 
 A dynamic 2D platformer game built with Phaser 3, React, and TypeScript, demonstrating seamless React-Phaser communication powered by Vite.
 
